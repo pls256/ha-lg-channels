@@ -29,5 +29,5 @@ Install the required libraries using pip:
 pip install requests beautifulsoup4 pyyaml
 
 
-![LG Dashbaord Example](assets/lg-dash-board.png)
+[LG Dashboard Example](https://github.com/pls256/ha-lg-channels/assets/lg-dash-board.png)
 
