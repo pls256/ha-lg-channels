@@ -1,0 +1,1010 @@
+[
+    {
+        "Category": "News",
+        "Brand Image URL": "/images/channels/news/105-sky-news.png",
+        "Channel": "105",
+        "Channel No": "IP-105",
+        "Channel Name": "Sky News Now",
+        "Description": "The best award-winning journalists with unique and exclusive insights. Fearless opinions from the big names who are passionate about the country we live in."
+    },
+    {
+        "Category": "News",
+        "Brand Image URL": "/images/channels/news/106-breaking-news-channel.png",
+        "Channel": "106",
+        "Channel No": "IP-106",
+        "Channel Name": "Breaking News Channel",
+        "Description": "Stay informed with the latest breaking news from around the world. Keep up-to-date on what's happening near you, with stories from the world's most trusted news outlets including ABC, Al Jazeera, Bloomberg, CNBC and Reuters."
+    },
+    {
+        "Category": "News",
+        "Brand Image URL": "/images/channels/news/107-euronews.png",
+        "Channel": "107",
+        "Channel No": "IP-107",
+        "Channel Name": "Euronews",
+        "Description": "Since 1993, Euronews has been the leading international news media in Europe. Unapologetically impartial and independent, Euronews delivers different viewpoints. Euronews. Making sense of Europe."
+    },
+    {
+        "Category": "News",
+        "Brand Image URL": "/images/channels/news/110-jtbc-news.png",
+        "Channel": "110",
+        "Channel No": "IP-110",
+        "Channel Name": "JTBC NEWS",
+        "Description": "K-News. JTBC Newsroom is the flagship nightly newscast of South Korean television network JTBC."
+    },
+    {
+        "Category": "News",
+        "Brand Image URL": "/images/channels/news/111-ytn.png",
+        "Channel": "111",
+        "Channel No": "IP-111",
+        "Channel Name": "YTN",
+        "Description": "K-News. YTN is the first 24-hour Korean news channel to be broadcast throughout South Korea. YTN originally stands for Yonhap Television News."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/201-outdoor-tv.png",
+        "Channel": "201",
+        "Channel No": "IP-201",
+        "Channel Name": "Outdoor TV",
+        "Description": "Outdoor Channel is all about REAL.LIFE.ADVENTURE. Loaded with a first run and exclusive combination of personality led, outdoor themed adventure, lifestyle, entertainment and wildlife programming."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/203-go-usa.png",
+        "Channel": "203",
+        "Channel No": "IP-203",
+        "Channel Name": "Go USA TV",
+        "Description": "Our programming includes award-winning television series, feature-length documentaries, and popular shorts told from the diverse perspectives of real people across America. Our mix of programming exposes authentic USA experiences in all locations, showcasing the people, places, culture and activities that make travel in the United States truly distinct."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/205-awe-plus.png",
+        "Channel": "205",
+        "Channel No": "IP-205",
+        "Channel Name": "AWE Plus",
+        "Description": "From travel secrets to fast cars, from culinary delights to fine cigars, boxing and much more. All-inviting, vicarious living at its finest regardless of economic status."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/207-authentic-travel.png",
+        "Channel": "207",
+        "Channel No": "IP-207",
+        "Channel Name": "Autentic Travel",
+        "Description": "From sea-level to snowy peaks, from the desert to the rainforest, from Argentina to Zambia... and everything in between. Autentic Travel will definitely inspire your next holiday destination. Presenting new landscapes and life of different nations, the documentaries cover many aspects from work, holidays, cooking, clothes, to local traditions."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/208-TravelXp.png",
+        "Channel": "208",
+        "Channel No": "IP-208",
+        "Channel Name": "TravelXp",
+        "Description": "World's Most famous Travel Journeys. A tremendous collection of extraordinary round-the-world journeys in 4K HDR quality to give you a real-world experience."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/216-Tiny-House-Nation.png",
+        "Channel": "216",
+        "Channel No": "IP-216",
+        "Channel Name": "Tiny House Nation",
+        "Description": "Join tiny house experts — all day, every day — as they travel across the globe in search of unique and customtiny homes that are 500 square feet or less. This channel is proof that size doesn't always matter. It's creativity that counts, and the options are limitless here."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/217-smart-healthy-green-living.png",
+        "Channel": "217",
+        "Channel No": "IP-217",
+        "Channel Name": "Smart Green Living",
+        "Description": "Find everything from DIY furniture projects, organic gardening, green living, smart home tech, creating a more sustainable home, garden, and life and so much more."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/220-introuble.png",
+        "Channel": "220",
+        "Channel No": "IP-220",
+        "Channel Name": "INTROUBLE",
+        "Description": "Test your nerve with INTROUBLE, a whirlwind of action, excitement and thrilling sports related experiences."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/221-infast.png",
+        "Channel": "221",
+        "Channel No": "IP-221",
+        "Channel Name": "INFAST",
+        "Description": "Tells you real stories from around the world, featuring incredible content across lifestyle, entertainment, and sport."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/230-tastemade.png",
+        "Channel": "230",
+        "Channel No": "IP-230",
+        "Channel Name": "Tastemade",
+        "Description": "Featuring award-winning food and lifestyle programming designed to get you off the couch, the Tastemade streaming channel introduces audiences to new ideas, amazing people, and incredible places, empowering viewers to live their best life."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/241-RealLife.png",
+        "Channel": "241",
+        "Channel No": "IP-241",
+        "Channel Name": "Real Life",
+        "Description": "Real Life offers a light touch slate of feel-good reality TV shows. Expect content on the trials and tribulations of the modern family, home renovations, DIY, food, health & well-being, travel, love and more."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/245-love-wine.png",
+        "Channel": "245",
+        "Channel No": "IP-245",
+        "Channel Name": "Love Wine",
+        "Description": "The first and unique channel to discover everything about wine. A full TRAVEL EXPERIENCE to enjoy visiting wineries from the living room."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/247-life-minute-tv.png",
+        "Channel": "247",
+        "Channel No": "IP-247",
+        "Channel Name": "Lifeminute",
+        "Description": "LifeMinute is your video guide to cool things in life. Music, Food, Fashion, Beauty, Travel, Movies, Celebrity Interviews, Home Entertaining, Health and Wellness tips and trends and so much more."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/251-TravelON.png",
+        "Channel": "251",
+        "Channel No": "IP-251",
+        "Channel Name": "TravelON",
+        "Description": "Korean Travel shows."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/252-FoodON.png",
+        "Channel": "252",
+        "Channel No": "IP-252",
+        "Channel Name": "FoodON",
+        "Description": "Korean Food Channel."
+    },
+    {
+        "Category": "Lifestyle",
+        "Brand Image URL": "/images/channels/lifestyle/259-refresh-my-soul.png",
+        "Channel": "259",
+        "Channel No": "IP-259",
+        "Channel Name": "Refresh my Soul CBS",
+        "Description": "K-Religon"
+    },
+    {
+        "Category": "Movies",
+        "Brand Image URL": "/images/channels/movies/306-my-time-movie-network.png",
+        "Channel": "306",
+        "Channel No": "IP-306",
+        "Channel Name": "My Time Movie Network",
+        "Description": "MyTime is a free streaming channel dedicated to celebrating and entertaining women by offering female-led content."
+    },
+    {
+        "Category": "Movies",
+        "Brand Image URL": "/images/channels/movies/307-Sparkle-Movies.png",
+        "Channel": "307",
+        "Channel No": "IP-307",
+        "Channel Name": "Sparkle Movies - Light & Love",
+        "Description": "Offering only the best family movies and entertainment."
+    },
+    {
+        "Category": "Movies",
+        "Brand Image URL": "/images/channels/movies/308-infamous-tv.png",
+        "Channel": "308",
+        "Channel No": "IP-308",
+        "Channel Name": "Infamous TV",
+        "Description": "Infamous TV is a one-stop destination for intriguing stories that are Underworld, Under Suspicion, Offworld."
+    },
+    {
+        "Category": "Movies",
+        "Brand Image URL": "/images/channels/movies/315-new-k-movies.png",
+        "Channel": "315",
+        "Channel No": "IP-315",
+        "Channel Name": "New K-Movies",
+        "Description": "K-Movies. Korean Movies."
+    },
+    {
+        "Category": "Movies",
+        "Brand Image URL": "/images/channels/movies/316-k-popcorn.png",
+        "Channel": "316",
+        "Channel No": "IP-316",
+        "Channel Name": "K-POPCORN",
+        "Description": "Korean Movies."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/320-fail-army-2.png",
+        "Channel": "320",
+        "Channel No": "IP-320",
+        "Channel Name": "FailArmy",
+        "Description": "Failure is the only option. Binge the most epic fails from the worldwide leader in fails."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/321-young-hollywood.png",
+        "Channel": "321",
+        "Channel No": "IP-321",
+        "Channel Name": "Young Hollywood",
+        "Description": "Discover the hottest new trends and watch exclusive interviews and awesome videos with all your favorite Young Hollywood celebrities. Whether you’re obsessed with music, TV, fashion, film, sports or lifestyle, we’ve got you covered!"
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/322-beond-tv.png",
+        "Channel": "322",
+        "Channel No": "IP-322",
+        "Channel Name": "BEONDTV",
+        "Description": "BEONDTV is celebrity interviews, travel, lifestyle, food and talk from your favorite content creators. It bridges the gap between old and new media with original content curated by Emmy award-winning journalists. BEONDTV is a certified minority female-owned company."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/323-revolt-mixtape.png",
+        "Channel": "323",
+        "Channel No": "IP-323",
+        "Channel Name": "Revolt Mixtape",
+        "Description": "REVOLT Mixtape is the premier destination for hip hop content, celebrating Black Excellence with a curated lineup of fan-favorite shows from the REVOLT vault, short digital originals, and exclusive original series."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/325-weather-spy.png",
+        "Channel": "325",
+        "Channel No": "IP-325",
+        "Channel Name": "WeatherSpy",
+        "Description": "A weather channel unlike any other. Explore our unpredictable planet through the exhilaration and impact of natural forces. Featuring unbelievable weather, wild-life, outdoor recreation and drone footage."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/326-la-la-life.png",
+        "Channel": "326",
+        "Channel No": "IP-326",
+        "Channel Name": "La La Life",
+        "Description": "The latest trends, comedy, and sounds - every moment has its music!"
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/327-5-min-crafts.png",
+        "Channel": "327",
+        "Channel No": "IP-327",
+        "Channel Name": "5 Minutes Craft",
+        "Description": "Top Life Hacks & Easy Crafts for Home, School and Office: Simplify Your Daily Routine With Us!"
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/339-Nosey.png",
+        "Channel": "339",
+        "Channel No": "IP-339",
+        "Channel Name": "Nosey",
+        "Description": "Nosey is the stuff you can't make up. Watch full episodes of Maury Povich, Jerry Springer, Judge Mom and Judge Dad"
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/340-mech-plus.png",
+        "Channel": "340",
+        "Channel No": "IP-340",
+        "Channel Name": "Robot Wars by Mech+",
+        "Description": "A free streaming service featuring Robot Wars and Much More."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/341-people-are-awesome.png",
+        "Channel": "341",
+        "Channel No": "IP-341",
+        "Channel Name": "People Are Awesome",
+        "Description": "The number one destination for amazing, original videos and compilations of ordinary people doing extraordinary things."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/351-Ghost.png",
+        "Channel": "351",
+        "Channel No": "IP-351",
+        "Channel Name": "Ghost",
+        "Description": "Ordinary people and celebrities reveal their frightening personal experiences of ghosts and haunted houses."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/361-sbs-k-drama.png",
+        "Channel": "361",
+        "Channel No": "IP-361",
+        "Channel Name": "SBS K-drama",
+        "Description": "K-Drama. Seoul Broadcasting System."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/362-ROMCOM-K-Drama.png",
+        "Channel": "362",
+        "Channel No": "IP-362",
+        "Channel Name": "ROMCOM K-Drama",
+        "Description": "Korean Romantic Comedies"
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/363-bride-of-the-century.png",
+        "Channel": "363",
+        "Channel No": "IP-363",
+        "Channel Name": "Bride of the Century",
+        "Description": "K-Drama.The Choi family is cursed that the first bride of their eldest son will always die and just a day before his wedding, Choi Kang-joo's bride disappears mysteriously."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/364-lovers-of-the-red-sky.png",
+        "Channel": "364",
+        "Channel No": "IP-364",
+        "Channel Name": "Lovers of the Red Sky",
+        "Description": "K-Drama. Hong Chun Gi, the first female painter at the Dohwaseo Academy, leads a promising life towards a bright future. Things change when she falls for Ha Ram, a mysterious, visually-impaired soldier."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/365-my-secret-romance.png",
+        "Channel": "365",
+        "Channel No": "IP-365",
+        "Channel Name": "My Secret Romance",
+        "Description": "K-Drama. Yoo-mi is devastated to learn that her new employer is the man she once had an illicit affair with. Things get tough for her when he takes revenge on her for disappearing the next morning."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/366-Beyond-Evil.png",
+        "Channel": "366",
+        "Channel No": "IP-366",
+        "Channel Name": "Beyond Evil",
+        "Description": "K-Drama. As a killing resembling a cold case resurfaces in a small town, the chase for the truth falls on two policemen who each harbour secrets of their own."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/369-Pinocchio.png",
+        "Channel": "369",
+        "Channel No": "IP-369",
+        "Channel Name": "Pinocchio",
+        "Description": "K-Drama. Dal-po, a man whose family was ruined by a news channel, and In-ha, his friend who has the Pinocchio Syndrome forbidding her from speaking lies, become journalists and strive to fight for justice."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/370-the-legend-of-the-blue-sea.png",
+        "Channel": "370",
+        "Channel No": "IP-370",
+        "Channel Name": "The Legend of the Blue Sea",
+        "Description": "K-Drama. A mermaid, Se-hwa, starts following a con man, Joon-jae, who initially helps her out. However, while she tries to adapt to the human world, she finds herself falling in love with him."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/371-still-17.png",
+        "Channel": "371",
+        "Channel No": "IP-371",
+        "Channel Name": "Still 17",
+        "Description": "K-Drama. Woo Seo Ri is a violinist who wakes up from her coma after 17 years. She adjusts to her new surroundings and suddenly meets Gong Woo Jin, a man whose trauma makes him reluctant to fall in love."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/372-the-heirs.png",
+        "Channel": "372",
+        "Channel No": "IP-372",
+        "Channel Name": "The Heirs",
+        "Description": "K-Drama. A young couple, belonging to families with contrasting backgrounds, must navigate through various societal restrictions and fight against the norms held up by the chaebol families."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/373-k-drama-by-mbc.png",
+        "Channel": "373",
+        "Channel No": "IP-373",
+        "Channel Name": "K-DRAMA by MBC",
+        "Description": "K-Drama from Munhwa Broadcasting Corporation"
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/374-agency.png",
+        "Channel": "374",
+        "Channel No": "IP-374",
+        "Channel Name": "Agency",
+        "Description": "K-Drama. A self-made executive navigates the cutthroat world of advertising to become the head of her agency."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/375-goodbye-mr-black.png",
+        "Channel": "375",
+        "Channel No": "IP-375",
+        "Channel Name": "Goodbye Mr. Black",
+        "Description": "K-Drama. After finding out about his best friend's betrayal, a man decides to take revenge. In pursuit of this, he disguises himself as a man married to a young woman. However, he ends up falling in love."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/380-running-man.png",
+        "Channel": "380",
+        "Channel No": "IP-380",
+        "Channel Name": "Running Man",
+        "Description": "K-Variety. An “urban action variety” show where celebrity contestants take part and try to complete a series of missions in order to win the ultimate title and avoid punishments."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/381-we-play.png",
+        "Channel": "381",
+        "Channel No": "IP-381",
+        "Channel Name": "We Play",
+        "Description": "K-Variety. We Play is an action-adventure all-time variety show where the cast members accidentally log in and enjoy Augmented Reality games."
+    },
+    {
+        "Category": "Entertainment",
+        "Brand Image URL": "/images/channels/entertainment/382-k-star-golf.png",
+        "Channel": "382",
+        "Channel No": "IP-382",
+        "Channel Name": "K-STAR GOLF",
+        "Description": "K-Variety Show"
+    },
+    {
+        "Category": "Business & Finance",
+        "Brand Image URL": "/images/channels/business-and-finance/404-bloomberg-tv.png",
+        "Channel": "404",
+        "Channel No": "IP-404",
+        "Channel Name": "Bloomberg TV+",
+        "Description": "News, political analysis, commentary, and more from the nation’s leading political commentators."
+    },
+    {
+        "Category": "Business & Finance",
+        "Brand Image URL": "/images/channels/business-and-finance/405-de-finance.png",
+        "Channel": "405",
+        "Channel No": "IP-405",
+        "Channel Name": "DeFiance Media",
+        "Description": "DeFiance celebrates mavericks, innovators and entrepreneurs whilst highlighting how they have defied all odds to achieve success."
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/445-clubbing-tv.png",
+        "Channel": "445",
+        "Channel No": "IP-445",
+        "Channel Name": "CLUBBING TV",
+        "Description": "Clubbing TV is the world’s first Lifestyle TV Channel dedicated to the Electronic Music Culture. It offers the best live events, DJ sets, lifestyle programs, music videos, party reports from the hottest dance floors, interviews with the most famous DJ & producers plus exclusive shows, festivals and concerts gravitating all over the international dance music scene."
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/450-trace-urban.png",
+        "Channel": "450",
+        "Channel No": "IP-450",
+        "Channel Name": "TraceUrban",
+        "Description": "TRACE Urban is the first music channel exclusively dedicated to urban music and culture. The channel offers a unique approach to the urban world through the latest music videos, exclusive interviews with top celebrities plus unique magazines and documentaries."
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/451-trace-latina.png",
+        "Channel": "451",
+        "Channel No": "IP-451",
+        "Channel Name": "TraceLatina",
+        "Description": "TRACE Latina is the ultimate premium channel entirely dedicated to Latin music and culture. TRACE Latina showcases the best of Latin Urban rhythms: Salsa, Reggaeton, Bachata, Merengue, Samba, Batucada, Mambo, Rumba, Pop, Rap and many more. It brings you the essence of Latin culture with the best of music videos', interviews, concerts and documentaries."
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/452-trace-brasil.png",
+        "Channel": "452",
+        "Channel No": "IP-452",
+        "Channel Name": "TraceBrazuca",
+        "Description": "TRACE Brazuca is the #1 Music channel dedicated to the best urban music videos and content from Brazil. It gives a unique insight into Brazilian music and culture. It airs the most popular music genres, focusing on the latest in Funk, Rap, Samba, Pagode, and covers many aspects of the lusophone life."
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/455-qwest-tv.png",
+        "Channel": "455",
+        "Channel No": "IP-455",
+        "Channel Name": "Qwest TV",
+        "Description": "Qwest TV is Quincy Jones’ video streaming network celebrating Black & global music through premium documentaries, concerts, archive gems and interviews."
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/460-essential.png",
+        "Channel": "460",
+        "Channel No": "460",
+        "Channel Name": "Essential",
+        "Description": "A channel dedicated to electronic music, you can find music that relaxes you or to create a party environment in the company of your friends and family."
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/462-inki-gayo.png",
+        "Channel": "462",
+        "Channel No": "IP-462",
+        "Channel Name": "SBS Inkigayo",
+        "Description": "K-Music. Inkigayo is a South Korean music program broadcast channel."
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/463-yg-tv.png",
+        "Channel": "463",
+        "Channel No": "IP-463",
+        "Channel Name": "YG TV",
+        "Description": "K-Music. A channel launched with the YG Entertainment talent agency that is responsible for K pop acts including Blackpink, G-Dragon, Taeyang and Winner. K-Music. South Korean music television program broadcast"
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/464-show-champion.png",
+        "Channel": "464",
+        "Channel No": "IP-464",
+        "Channel Name": "Show Champion",
+        "Description": "K-Music. South Korean music television program broadcast"
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/465-weekly-idol.png",
+        "Channel": "465",
+        "Channel No": "IP-465",
+        "Channel Name": "Weekly Idol",
+        "Description": "K-Music. For all K-POP fans around the world, Weekly Idol invites a different K-POP idol group every week to its studio to know all about them through a variety of games and special talks sessions."
+    },
+    {
+        "Category": "Music",
+        "Brand Image URL": "/images/channels/music/466-k-music.png",
+        "Channel": "466",
+        "Channel No": "IP-466",
+        "Channel Name": "*@K-MUSIC",
+        "Description": "K-Music."
+    },
+    {
+        "Category": "Animals & Natural History",
+        "Brand Image URL": "/images/channels/animals-and-natural-history/490-my-little-pet.png",
+        "Channel": "490",
+        "Channel No": "IP-490",
+        "Channel Name": "My Little Pet",
+        "Description": "Day-to-Day pet channel."
+    },
+    {
+        "Category": "Animals & Natural History",
+        "Brand Image URL": "/images/channels/animals-and-natural-history/491-the-pet-collective.png",
+        "Channel": "491",
+        "Channel No": "IP-491",
+        "Channel Name": "The Pet Collective",
+        "Description": "Where Pets Rule. The Pet Collective is home to the top trending clips, most entertaining memes, and funniest animal videos online. Simply put, we think animals are the best ever."
+    },
+    {
+        "Category": "Animals & Natural History",
+        "Brand Image URL": "/images/channels/animals-and-natural-history/493-RealWild.png",
+        "Channel": "493",
+        "Channel No": "IP-493",
+        "Channel Name": "Real Wild",
+        "Description": "Real Wild offers the opportunity to explore the wonder of all things wild; exotic animals, remote landscapes, and breath-taking wilderness. Our documentaries will introduce you to the complexities of nature across the globe – fierce, fragile and remarkable. From lush rainforests to sparse deserts, from friendly pets to predatory sharks and lions."
+    },
+    {
+        "Category": "Animals & Natural History",
+        "Brand Image URL": "/images/channels/animals-and-natural-history/494-earthtouch.png",
+        "Channel": "494",
+        "Channel No": "IP-494",
+        "Channel Name": "Earthtouch",
+        "Description": "EARTH TOUCH TV is a high-quality wildlife channel that touches the Earth in an emotive way bringing you the very best of the animal kingdom and a snapshot of our breath-taking planet every hour, every day, in all seasons. We aim to bring our audiences close contact with nature and share our deep knowledge through entertainment. EARTH TOUCH TV abounds with visceral, stunning landscapes and heart-pounding action.  Animals & Natural History"
+    },
+    {
+        "Category": "Animals & Natural History",
+        "Brand Image URL": "/images/channels/animals-and-natural-history/497-adventure-earth.png",
+        "Channel": "497",
+        "Channel No": "IP-497",
+        "Channel Name": "Adventure Earth",
+        "Description": "Adventure Earth is dedicated to the unique beauty of our planet and offers high-quality documentaries on wildlife and nature. It has a captivating collection of documentaries that showcases the diverse wonders of our planet, bringing to light the hidden treasures and astonishing spectacles that often go unnoticed. Animals & Natural History"
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/504-baby-shark.png",
+        "Channel": "504",
+        "Channel No": "IP-504",
+        "Channel Name": "Baby SharkTV",
+        "Description": "Sing and Dance with Baby Shark!"
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/505-dennis-and-gnasher.png",
+        "Channel": "505",
+        "Channel No": "IP-505",
+        "Channel Name": "Dennis and Gnasher",
+        "Description": "The adventures of Dennis, his dog Gnasher, and their best friends JJ, Rubi and Pieface. The team cause havoc to Walter, Beanotown and Bash Street School, where all the rules go out the window."
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/506-cocobi.png",
+        "Channel": "506",
+        "Channel No": "IP-506",
+        "Channel Name": "Cocobi",
+        "Description": "Welcome to the COCOBI channel. Get ready for some fun Songs and Stories!"
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/507-robocar.png",
+        "Channel": "507",
+        "Channel No": "IP-507",
+        "Channel Name": "Robocar POLI",
+        "Description": "It's never a dull day in Broomstown with the Robocar Poli Rescue Team protecting the beautiful town's vehicles and citizens from all sorts of dangers."
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/508-kongsuni.png",
+        "Channel": "508",
+        "Channel No": "IP-508",
+        "Channel Name": "Kongsuni",
+        "Description": "For five year-old Kongsuni life is one big, beautiful adventure. Whether it's at home, in school or on the playground, everyday experiences have a way of becoming exceptional when this little girl is around!"
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/509-tobot.png",
+        "Channel": "509",
+        "Channel No": "IP-509",
+        "Channel Name": "TOBOT",
+        "Description": "Tobot is an animated television series produced by Young Toys and Retrobot. The series features transforming cars and some of them are designed after Kia Motors vehicles."
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/510-JellyJam.png",
+        "Channel": "510",
+        "Channel No": "IP-510",
+        "Channel Name": "Jelly Jamm World",
+        "Description": "Jelly Jamm World is a channel for preschoolers. It offers fun, educational animated series like Jelly Jamm, Leo The Wildlife Ranger, and Counting with Paula to promote creativity and learning."
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/511-PBS-Kids.png",
+        "Channel": "511",
+        "Channel No": "IP-511",
+        "Channel Name": "PBS Kids",
+        "Description": "PBS KIDS believes the world is full of possibilities, and so is every child. As the number one educational media brand for kids, PBS KIDS helps children ages 2-8 learn lessons that last a lifetime. Programming includes Daytime Emmy, BAFTA, and Peabody Award winning content."
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/521-123-go.png",
+        "Channel": "521",
+        "Channel No": "IP-521",
+        "Channel Name": "123GO",
+        "Description": "School, DIY, life hacks, pranks, beauty tips, myth busting, comedy and much, much more!"
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/522-brat-tv.png",
+        "Channel": "522",
+        "Channel No": "IP-522",
+        "Channel Name": "Brat TV",
+        "Description": "Brat TV is where the next generation tunes in to Chicken Girls, Total Eclipse, Attaway General and more. Must See TV for Gen Z. FREE on LG Channels IP-522."
+    },
+    {
+        "Category": "Kids",
+        "Brand Image URL": "/images/channels/kids/525-Mr-Bean.png",
+        "Channel": "525",
+        "Channel No": "IP-525",
+        "Channel Name": "Mr. Bean Animated",
+        "Description": "Based on the original Mr Bean series, starring Rowan Atkinson, and following the first animated series, released in 2002, this colourful, quirky and evergreen comedy animation is one for the whole family."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/610-bloomberg-originals.png",
+        "Channel": "610",
+        "Channel No": "IP-610",
+        "Channel Name": "Bloomberg Originals",
+        "Description": "Bloomberg Originals offers bold takes for curious minds on today’s biggest topics. Hosted by experts covering stories you haven’t seen and viewpoints you haven’t heard, you’ll discover cinematic, data-led shows that investigate the intersection of business and culture. Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals, is business as you’ve never seen it."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/611-authentic-history.png",
+        "Channel": "611",
+        "Channel No": "IP-611",
+        "Channel Name": "Autentic History",
+        "Description": "The conflicts and major historical events that have shaped mankind and our contemporary world. Witness the race to create new weapons during World War II. Learn about the tragedies and triumphs of immigration in the 19th century, the Vatican's unique moment in history, the brutal regimes of Idi Amin Dada and Augusto Pinochet, and the lives of aviation pioneers like Claude Dornier. A refreshingly unbiased and in-depth look at history."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/621-RealStories.png",
+        "Channel": "621",
+        "Channel No": "IP-621",
+        "Channel Name": "Real Stories",
+        "Description": "The channel features Oscar, Emmy and BAFTA winners, showcases world-class investigative journalism, contains captivating true-crime stories as well as medical miracles, ventures inside hidden worlds, meets some of the planet’s most idiosyncratic people, and takes viewers to countries ranging from Afghanistan to North Korea to Iraq."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/622-HistoryHit.png",
+        "Channel": "622",
+        "Channel No": "IP-622",
+        "Channel Name": "History Hit",
+        "Description": "Timeline is proving that history is just as exciting as the future. Whether you’re mad about machinery or destined for discovery, we cover a vast array of content exploring the discoveries and stories which shaped our world today."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/625-PBS-History.png",
+        "Channel": "625",
+        "Channel No": "IP-625",
+        "Channel Name": "PBS History",
+        "Description": "Travel through time to relive the events anddiscover the truths that shape our world. “PBSHistory” brings viewers a deep collection of thebest historical documentaries on television."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/626-PBS-Science.png",
+        "Channel": "626",
+        "Channel No": "IP-626",
+        "Channel Name": "PBS Science",
+        "Description": "Anchored by NOVA, the most-watched scienceseries on television, “PBS Science” takesviewers on a journey to demystify the scientificand technological concepts that shape ourlives, our planet, and our universe."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/627-Modern-Marvels.png",
+        "Channel": "627",
+        "Channel No": "IP-627",
+        "Channel Name": "Modern Marvels",
+        "Description": "Celebrate ingenuity, invention, and imagination on a grand scale. These are the amazing stories of the doers, dreamers, and sometime-schemers who create everyday items, technological advancements, and man-made wonders."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/642-inwonder.png",
+        "Channel": "642",
+        "Channel No": "IP-642",
+        "Channel Name": "INWONDER",
+        "Description": "Discover a unique perspective on science, technology, and everything in between with INWONDER."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/645-bright-side.png",
+        "Channel": "645",
+        "Channel No": "IP-645",
+        "Channel Name": "Bright Side English",
+        "Description": "Bright Side features engaging narrated videos that showcase travel and exploration, self-improvement, gadgets, riddles and pop-culture."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/648-Wonder.png",
+        "Channel": "648",
+        "Channel No": "IP-648",
+        "Channel Name": "Wonder",
+        "Description": "The home of people who push the boundaries of human experiences, telling stories that will make you go wow!"
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/670-RealCrime.png",
+        "Channel": "670",
+        "Channel No": "IP-670",
+        "Channel Name": "Real Crime",
+        "Description": "Crime, justice, law and order... Real Crime is the perfect place to get your true crime fix!  We've got all kinds of documentary content from killers to kidnappers, theft to fraud."
+    },
+    {
+        "Category": "Documentary",
+        "Brand Image URL": "/images/channels/documentary/671-Crime360.png",
+        "Channel": "671",
+        "Channel No": "IP-671",
+        "Channel Name": "Crime 360",
+        "Description": "Your ultimate crime destination featuring award-winning investigative series and covering stories of those who never gave up searching for answers - and finally found justice."
+    },
+    {
+        "Category": "Sport",
+        "Brand Image URL": "/images/channels/sports/702-fifa-plus.png",
+        "Channel": "702",
+        "Channel No": "IP-702",
+        "Channel Name": "FIFA+",
+        "Description": "FIFA+ is your one-stop shop for streaming live and on-demand soccer content from around the world."
+    },
+    {
+        "Category": "Sport",
+        "Brand Image URL": "/images/channels/sports/704-mma-tv.png",
+        "Channel": "704",
+        "Channel No": "IP-704",
+        "Channel Name": "MMA TV",
+        "Description": "Provides a comprehensive coverage of mixed martial arts."
+    },
+    {
+        "Category": "Sport",
+        "Brand Image URL": "/images/channels/sports/705-pac-12.png",
+        "Channel": "705",
+        "Channel No": "IP-705",
+        "Channel Name": "PAC12",
+        "Description": "Pac-12 Insider is your home for FREE sports from the Conference of Champions! Watch up to 100 live events, exclusive shows with inside takes so you never miss a beat, classic encores from your favorite sports and behind-the-scenes stories that showcase the heart and soul of Pac-12 student-athletes, coaches and legends."
+    },
+    {
+        "Category": "Sport",
+        "Brand Image URL": "/images/channels/sports/706-pga-tour.png",
+        "Channel": "706",
+        "Channel No": "IP-706",
+        "Channel Name": "PGA TOUR",
+        "Description": "Home of official PGA TOUR news, stats, video, player profiles and tournament information."
+    },
+    {
+        "Category": "Sport",
+        "Brand Image URL": "/images/channels/sports/710-strongman-championships-league.png",
+        "Channel": "710",
+        "Channel No": "IP-710",
+        "Channel Name": "Strongman Champions League",
+        "Description": "The Strongman Champions League is the premiere and largest international Strongman competition. A complete series of 16 competitions per year, played out all over the world."
+    },
+    {
+        "Category": "Sport",
+        "Brand Image URL": "/images/channels/sports/720-mtr-sport-1.png",
+        "Channel": "720",
+        "Channel No": "IP-720",
+        "Channel Name": "MTRSPORT1",
+        "Description": "MTRSPT1 is LIVE SPORTS channel featuring premium motorsports programming."
+    },
+    {
+        "Category": "Sport",
+        "Brand Image URL": "/images/channels/sports/725-world-billards.png",
+        "Channel": "725",
+        "Channel No": "IP-725",
+        "Channel Name": "World Billards",
+        "Description": "Hosts the largest collection of billiard, pool and cue sports matches."
+    },
+    {
+        "Category": "Sport",
+        "Brand Image URL": "/images/channels/sports/730-sports-grid.png",
+        "Channel": "730",
+        "Channel No": "IP-730",
+        "Channel Name": "SportsGrid",
+        "Description": "SportsGrid is the first and only 24-hour sports wagering destination providing 18 hours of exclusive original programming hosted by a team of on-air personalities, sports betting experts, and guest contributors. The network features reporting and analytic platform includes daily odds, lines, matchups, injury reports, statistics, news, and more across the NFL, NBA, MLB, NHL, college sports, golf, tennis, and soccer."
+    },
+    {
+        "Category": "Sport",
+        "Brand Image URL": "/images/channels/sports/741-trace-sports.png",
+        "Channel": "741",
+        "Channel No": "IP-741",
+        "Channel Name": "Trace Stars",
+        "Description": "TRACE Sport Stars is the first channel exclusively dedicated to sports celebrities. TRACE Sport Stars gives unique behind-the-scenes access to athletes, offering an intimate and in-depth understanding of their lives. TRACE Sport Stars combines sports celebrity profiles, magazine and reality programming with news and gossip shows giving viewers the opportunity to discover champions, as they have never seen them before."
+    },
+    {
+        "Category": "Sport",
+        "Brand Image URL": "/images/channels/sports/780-BeIn-Sport-Xtra.png",
+        "Channel": "780",
+        "Channel No": "IP-780",
+        "Channel Name": "BeIn Sports Xtra",
+        "Description": "Home of European Football."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/805-TCSC.png",
+        "Channel": "805",
+        "Channel No": "IP-805",
+        "Channel Name": "The Chatshow Channel",
+        "Description": "The channel includes 18 seasons of Friday Night with Jonathan Ross and 16 seasons of Chatty Man with Alan Carr, featuring interviews from the likes of Tom Cruise, Lady Gaga, Taylor Swift and Jay-Z."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/807-the-biggest-loser.png",
+        "Channel": "807",
+        "Channel No": "IP-807",
+        "Channel Name": "The Biggest Loser",
+        "Description": "A channel dedicated to The Biggest Loser. Overweight and obese individuals set out to transform their bodies and lives by participating in a competition to lose the most amount of weight and win a prize."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/808-fear-factor.png",
+        "Channel": "808",
+        "Channel No": "IP-808",
+        "Channel Name": "Fear Factor",
+        "Description": "A channel dedicated to Fear Factor. Telecast of the stunt action show wherein contenders compete with each other by performing a variety of stunts to win the coveted title."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/809-wipe-out.png",
+        "Channel": "809",
+        "Channel No": "IP-809",
+        "Channel Name": "Wipeout Xtra",
+        "Description": "A channel dedicated to Wipeout Xtra. The home of physical and exciting gameshows, where you can witness unexpected challenges."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/813-Myth-Busters.png",
+        "Channel": "813",
+        "Channel No": "IP-813",
+        "Channel Name": "Myth Busters",
+        "Description": "Jamie and Adam are two special effects experts with over 30 years of experience and they set out to methodically bust three urban legends in each episode. They test theories to prove or disprove what is real and what is truly urban myth."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/815-Antiques-Road-Trip.png",
+        "Channel": "815",
+        "Channel No": "IP-815",
+        "Channel Name": "Antiques Road Trip",
+        "Description": "Hit BBC show “Antiques Road Trip” takes two of Britain’s best-loved antiques experts and sends them on a road trip across the UK. Along the way, the experts buy and sell antiques, starting with a budget of £200 and competing to make the most money at auction. Expertise, reputations and egos remain on the line, providing fun and drama in equal measure. Each"
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/816-hardcore-pawn.png",
+        "Channel": "816",
+        "Channel No": "IP-816",
+        "Channel Name": "Hardcore Pawn",
+        "Description": "Hardcore Pawn is an American reality television series about the day-to-day operations of American Jewelry and Loan, a family-owned and -operated pawn shop and broker in Detroit, Michigan's 8 Mile Road corridor."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/820-bring-it.png",
+        "Channel": "820",
+        "Channel No": "IP-820",
+        "Channel Name": "Bring It!",
+        "Description": "Intense rehearsals, thrilling battles, and fierce rivalries. In this world of competitive dance, Miss D leads her Dancing Dolls squad in a blend of explosive choreography, raw emotion, and high-stakes expectations in their determination to be the best."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/821-little-women-la.png",
+        "Channel": "821",
+        "Channel No": "IP-821",
+        "Channel Name": "Little Women: LA",
+        "Description": "With big personalities and even bigger dreams, these extraordinary women tackle life's challenges head-on while navigating careers, relationships, and personal triumphs. Follow their lives as they prove size is no obstacle to achieving greatness, all while celebrating their unique perspectives and embracing the power of friendship."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/822-dont-tell-the-bride.png",
+        "Channel": "822",
+        "Channel No": "IP-822",
+        "Channel Name": "Don't Tell the Bride",
+        "Description": "The show's format involves an engaged couple who are given $25,000 to spend on their wedding. They must spend three weeks apart without contact as the groom organises every aspect of the event and attire including the wedding dress and hen and stag parties, surprising the bride."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/837-come-dine-with-me.png",
+        "Channel": "837",
+        "Channel No": "IP-837",
+        "Channel Name": "Come Dine with Me",
+        "Description": "Five (or sometimes four) contestants each make a three-course meal for the others over the course of a week, for the chance to win £1,000"
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/839-hells-kitchen.png",
+        "Channel": "839",
+        "Channel No": "IP-839",
+        "Channel Name": "Hell's Kitchen",
+        "Description": "World renowned chef Gordon Ramsay puts aspiring young chefs through rigorous cooking challenges and dinner services at his restaurant in Hollywood, \"Hell's Kitchen\", to determine which one of them will win the head chef position at one of his restaurants or a restaurant located worldwide."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/840-deal-or-no-deal.png",
+        "Channel": "840",
+        "Channel No": "IP-840",
+        "Channel Name": "Deal or No Deal",
+        "Description": "A channel dedicated to Deal or No Deal. Contestants must choose from 26 briefcases containing different sums of money, from 1 cent to one million. The remaining briefcases will be opened one by one while the player receives different offers in cash."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/849-dog-bounty-hunter.png",
+        "Channel": "849",
+        "Channel No": "IP-849",
+        "Channel Name": "Dog the Bounty Hunter",
+        "Description": "It’s a family affair for world-famous bounty hunter Duane \"Dog\" Chapman, his wife Beth, and their posse as they chase down fugitives in the Hawaiian Islands. Even with the high-speed chases and the risks taken, Dog is also about tough love and second chances."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/852-Duck-Dynasty.png",
+        "Channel": "852",
+        "Channel No": "IP-852",
+        "Channel Name": "Duck Dynastty",
+        "Description": "The Robertson family may run a multimillion-dollar sporting empire but they’re staying true to themselves. With two generations running the ever-growing business and families that are expanding, the Robertsons stay grounded with their mix of down-home practicality and sharp wit."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/858-Ax-men.png",
+        "Channel": "858",
+        "Channel No": "IP-858",
+        "Channel Name": "Ax Men",
+        "Description": "Several logging crews try to make a living and face dangers as they work in the second-growth forests of several states across the USA."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/859-ice-road-truckers.png",
+        "Channel": "859",
+        "Channel No": "IP-859",
+        "Channel Name": "Ice Road Truckers",
+        "Description": "Follow a group of daredevil truck drivers as they navigate their 18-wheelers through unpredictable ice cracks, treacherous routes, and extreme winter weather. Faced with life-threatening driving conditions, there is absolutely no room for error in this race against time and Mother Nature."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/867-river-monsters.png",
+        "Channel": "867",
+        "Channel No": "IP-867",
+        "Channel Name": "River Monsters",
+        "Description": "Extreme angler Jeremy Wade travels the world to get a first-hand look at fish whose reputation for killing and eating humans has become the stuff of legend."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/877-life-downunder.png",
+        "Channel": "877 Life",
+        "Channel No": "IP-877 Life",
+        "Channel Name": "Down Under",
+        "Description": "Discover a collection of compelling content that shines a light on the unique passions and pursuits of Australians from all walks of life."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/878-Bondi-vet.png",
+        "Channel": "878",
+        "Channel No": "IP-878",
+        "Channel Name": "Bondi Vet",
+        "Description": "Bondi Vet is an Australian factual television series. It follows the lives of veterinary surgeon Chris Brown at the Bondi Junction Veterinary Hospital (near Bondi Beach), and emergency veterinarian Lisa Chimes at the Small Animal Specialist Hospital (SASH), in the Sydney suburb of North Ryde."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/891-jail.png",
+        "Channel": "891",
+        "Channel No": "IP-891",
+        "Channel Name": "Jail",
+        "Description": "From their initial arrival at the facility and interactions with corrections officers, through booking, fingerprinting and processing, JAIL chronicles the human drama of suspects adjusting to the harsh and sometimes bumpy reality of pretrial incarceration in America."
+    },
+    {
+        "Category": "Binge TV",
+        "Brand Image URL": "/images/channels/binge-tv/892-cops.png",
+        "Channel": "892",
+        "Channel No": "IP-892",
+        "Channel Name": "Cops",
+        "Description": "The original reality ride-along series and pioneer of the unscripted television explosion, takes viewers coast to coast, on the front lines with the men and women of American law enforcement, where the action is visceral, unpredictable and as real as it gets."
+    }
+]
